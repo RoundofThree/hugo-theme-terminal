@@ -22,7 +22,6 @@
 - https://security.jtang.dev **Jonathan Tang** (Student & Software Engineer)
 - https://andreacaravano.net **Andrea Caravano** (Student)
 - https://dawsonverboven.com/ **Dawson Verboven** (Student & Software Developer)
-- https://www.rockyourcode.com **Sophia Brandt** (tax officer and hobby coder)
 - https://qbunt.com **Jeremy Bunting** (Software Engineer)
 - https://smeik.org **Smeik** (Embedded Developer)
 - https://code.willstocks.co.uk **Will Stocks** (Blogger & Developer)
@@ -45,11 +44,18 @@
 - https://hidden.land/ **Louisload** (Game Developer & Musician)
 - https://linuxbase.nl **Michael Trip** (DevOps Engineer)
 - https://markopolo123.github.io **Markopolo** (DevOps Engineer)
-- https://mcwertgaming.github.io **Damon Leven** (Student & Software Developer)
-- https://sethsimmons.me **Seth Simmons** (Information Security Engineer, Cryptocurrency Writer)
+- https://openfoxblog.leven.dev/ **Damon Leven** (Student & Software Developer)
+- https://blog.sethforprivacy.com **Seth For Privacy** (Security, privacy, and cryptocurrency writer, podcaster)
 - https://thesprawl.city **crish** (Software and stuff)
+- https://justinnuwin.com **Justin Nguyen** (Software & Hardware Developer)
 - https://blog.woosal.com/ **Vusal Ismayilov** (Computer Engineering Student)
 - https://itsembedded.com/  **Norbert Kremeris** (digital logic design and verification engineer)
+- https://nereuxofficial.github.io **Nereuxofficial** (Software Developer & Student)
+- https://biplav.xyz **Biplav's Blog** (Student)
+- https://santiago.wtf **Nicholas Santiago** (DevOps Engineer)
+- https://2200g.github.io/ **2200g** (Blogger/Student)
+- https://cristiioan.me **Cristian Margine** (Student)
+- https://they.mint.lgbt **Joey Aliaga** (Software Developer & Student)
 
 <!--
  TEMPLATE:
